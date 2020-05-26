@@ -53,7 +53,7 @@ dict = dict(l)  # convert the list in dictionary
 
 # print("Dictionary", dict)  # the desired output is this sorted dictionary
 # sorted_list = {k: v for k, v in sorted(area_dict.items(), key=lambda x: x[1])}
-#sort dictionary
+# sort dictionary
 
 for i, b in dict.items():
     print(f'{i} : {b}')
